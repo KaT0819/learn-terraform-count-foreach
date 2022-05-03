@@ -76,3 +76,6 @@ variable "private_subnet_cidr_blocks" {
     "10.0.116.0/24"
   ]
 }
+
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
